@@ -107,6 +107,10 @@ Common subnet masks:
   - `255.255.255.128` (/25) - 128 addresses, 126 usable hosts
   - `255.255.255.192` (/26) - 64 addresses, 62 usable hosts
 
+Formula:
+  - Total addresses = 2^(number of host bits)
+  - Usable hosts = (2^(host bits)) - 2
+
 **Why 254 usable and not 256?**
 - First address (all 0s in host portion) = Network address
 - Last address (all 1s in host portion) = Broadcast address
