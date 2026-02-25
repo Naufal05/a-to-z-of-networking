@@ -126,6 +126,9 @@ VPC CIDR: 10.0.0.0/16
 ├── Private Subnet: 10.0.2.0/24 (for app servers)
 └── Database Subnet: 10.0.3.0/24 (for databases)
 ```
+The detail doc of the above AWS VPC setup:
+[Visit link](https://chatgpt.com/s/t_699edc01c3708191b57e1a808311c394)
+Note: IN  AWS, “A /24 subnet has 256 IPs. In AWS, 5 are reserved, so 251 are usable.”
 
 ## CIDR Notation
 
