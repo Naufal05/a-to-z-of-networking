@@ -201,6 +201,8 @@ Advertise single route:
 
 This reduces routing table size and improves routing efficiency
 
+[Explain notes](https://chatgpt.com/s/t_699ee14c7594819187a0c5c8c2527b1f)
+
 ## Useful Commands
 
 ### Check your IP address:
