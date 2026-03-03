@@ -132,7 +132,7 @@ Client                                    Server
   | "Got it! I'm ready to send data"       |
   |                                         |
   |========== Data Transfer ===============>|
-```
+``````
 
 ### Breaking Down Each Step:
 
